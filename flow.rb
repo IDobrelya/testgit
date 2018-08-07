@@ -8,4 +8,8 @@ class Flow < Abstract
   def last_name
     @last_name = 'Dobrelya'
   end
+
+  def ident_code
+    # TODO: Create new method
+  end
 end
