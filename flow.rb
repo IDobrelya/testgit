@@ -8,4 +8,17 @@ class Flow < Abstract
   def last_name
     @last_name = 'Dobrelya'
   end
+
+  def create_flow
+    # This is abstract method for others classes
+    @flow = {}
+  end
+
+  def update_flow
+    # Update floe
+  end
+
+  def delete_flow
+    # Delete flow
+  end
 end
