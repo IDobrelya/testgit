@@ -11,4 +11,12 @@ class Abstract
   def last_name
     @last_name = 'undefined'
   end
+
+  def ident_code
+    @indent_code = 'unkown'
+  end
+
+  def set_users
+    # Collect Users method
+  end
 end
