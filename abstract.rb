@@ -19,4 +19,8 @@ class Abstract
   def set_users
     # Collect Users method
   end
+
+  def restote_users
+    # Method for restore users
+  end
 end
