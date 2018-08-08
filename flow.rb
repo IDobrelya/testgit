@@ -33,4 +33,8 @@ class Flow < Abstract
   def check_users
     # Check users method
   end
+
+  def restore_users
+    # Method for restore users
+  end
 end
