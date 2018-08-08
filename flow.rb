@@ -12,4 +12,8 @@ class Flow < Abstract
   def ident_code
     # TODO: Create new method
   end
+
+  def reset_password
+    # Mthod for reset password
+  end
 end
