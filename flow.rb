@@ -21,4 +21,8 @@ class Flow < Abstract
   def delete_flow
     # Delete flow
   end
+
+  def ident_code
+    # TODO: Create new method
+  end
 end
