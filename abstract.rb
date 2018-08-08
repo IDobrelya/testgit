@@ -23,4 +23,8 @@ class Abstract
   def restote_users
     # Method for restore users
   end
+
+  def block_users
+    # Method for block users
+  end
 end
