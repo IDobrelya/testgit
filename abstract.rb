@@ -27,4 +27,8 @@ class Abstract
   def resinstall_users
     # Method for reinstall users
   end
+
+  def block_users
+    # Method for block users
+  end
 end
