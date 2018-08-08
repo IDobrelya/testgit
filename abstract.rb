@@ -23,4 +23,8 @@ class Abstract
   def restote_users
     # Method for restore users
   end
+
+  def resinstall_users
+    # Method for reinstall users
+  end
 end
