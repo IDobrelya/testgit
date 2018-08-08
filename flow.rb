@@ -16,4 +16,8 @@ class Flow < Abstract
   def reset_password
     # Mthod for reset password
   end
+
+  def check_password
+    # Method for checking password
+  end
 end
