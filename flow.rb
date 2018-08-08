@@ -41,4 +41,8 @@ class Flow < Abstract
   def check_password
     # Method for checking password
   end
+
+  def check_password
+    # Method for checking password
+  end
 end
